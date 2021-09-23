@@ -40,4 +40,8 @@ THEN the saved events persist
 
 ### REPO ###
 
+https://github.com/CPetrevski/05-hw-day-planner
+
 ### PAGES ###
+
+https://cpetrevski.github.io/05-hw-day-planner/

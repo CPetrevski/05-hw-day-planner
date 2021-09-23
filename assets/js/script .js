@@ -106,4 +106,4 @@ $(document).ready(function() {
     tasks.splice(dataIndex, 1, textInput);
     storeTasks();
   });
-})
+}) 
